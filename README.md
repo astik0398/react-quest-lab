@@ -9,11 +9,9 @@ This is a drag & drop todo application built with React, Chakra UI, and React Be
 
 ## Screenshots
 
-1. <img src="../react-quest-lab/src/assets/scrnli_3_17_2024_1-27-04 AM.png"/>
-<br/>
+1. ![alt text](<src/assets/scrnli_3_17_2024_1-27-04 AM.png>)
 
-2. <img src="../react-quest-lab/src/assets/scrnli_3_17_2024_1-27-34 AM.png"/>
-<br/>
+2. ![alt text](<src/assets/scrnli_3_17_2024_1-27-34 AM.png>)
 
 ## Installation
 
