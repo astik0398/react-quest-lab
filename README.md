@@ -7,11 +7,19 @@ This is a drag & drop todo application built with React, Chakra UI, and React Be
 1. Drag and drop tasks between columns
 2. Add new tasks to a particular column
 
+## Screenshots
+
+1. <img src="../react-quest-lab/src/assets/scrnli_3_17_2024_1-27-04 AM.png"/>
+<br/>
+
+2. <img src="../react-quest-lab/src/assets/scrnli_3_17_2024_1-27-34 AM.png"/>
+<br/>
+
 ## Installation
 
 ### `Clone the repository`
 
-git clone https://github.com/your-username/kanban-board-app.git
+git clone https://github.com/astik0398/react-quest-lab.git
 
 ### `Install dependencies`
 
